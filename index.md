@@ -4,6 +4,10 @@ This is my home page! My name is Salvador Moreno and I am a student at Cal State
 
 ## Computer Science Portfolio
 
+My github page is https://github.com/salvadormoreno1
+
+Favorite CPSC 120L labs
+
 *Lab 3 part 2
 
  My favorite labs were lab 3, part 2. I liked lab three part two because it was changing it from a Gregorian calendar to another calendar (Julian). We also had to change the day from a Gregorian calendar to a Julian day. We also changed the year and month of it to make it into a Julian month and year. 
