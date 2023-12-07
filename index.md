@@ -1,8 +1,8 @@
 # Salvador Moreno's Portfolio
 
-I am a student at CSUF who will graduate in 2028
+This is my home page! My name is Salvador Moreno and I am a student at Cal State Fullerton and my major is computer science.
 
-## Portfolio's favrite lab
+## Computer Science Portfolio
 
 *Lab 3 part 2
 
