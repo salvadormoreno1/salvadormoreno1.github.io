@@ -7,7 +7,7 @@ This is my home page! My name is Salvador Moreno and I am a student at Cal State
 
 My github page is https://github.com/salvadormoreno1
 
-Favorite CPSC 120L labs
+**Favorite CPSC 120L labs**
 
 *Lab 3 part 2
 
